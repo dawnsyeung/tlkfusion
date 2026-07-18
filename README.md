@@ -2,11 +2,11 @@
 
 Retail outreach materials for placing **White Eagle Nutrition** whole dried black soldier fly larvae (5 lb, 10 lb, 20 lb) with farm, feed, poultry, and specialty retailers.
 
-## Retail Sales Guide (open this)
+## Live guide
 
-Open the interactive guide in a browser:
+**Site:** [tlkfusion.earlylight.io](https://tlkfusion.earlylight.io)
 
-**[guide/index.html](guide/index.html)**
+Open locally by opening [`index.html`](index.html) in a browser.
 
 The guide includes:
 
@@ -18,6 +18,10 @@ The guide includes:
 ## Source document
 
 - [`TLK_Fusion_Retail_Outreach_Master.md`](TLK_Fusion_Retail_Outreach_Master.md) — working sales source of truth (markdown)
+
+## Deploy
+
+Static site configured for Vercel via `vercel.json`. Production domain should point at this repo’s production branch (`main`) so the root `index.html` is served at `/`.
 
 ## Brand
 
