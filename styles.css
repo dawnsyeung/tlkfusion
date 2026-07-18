@@ -691,6 +691,19 @@ a {
   background: #f7fbf8;
 }
 
+.compare-table td:nth-child(3) {
+  background: rgba(63, 122, 88, 0.08);
+}
+
+.compare-table tr:nth-child(even) td:nth-child(3) {
+  background: rgba(63, 122, 88, 0.12);
+}
+
+.compare-table td:last-child {
+  font-weight: 600;
+  color: var(--pine);
+}
+
 .template-card {
   margin-bottom: 1rem;
 }

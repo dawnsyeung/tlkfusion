@@ -334,7 +334,7 @@ Best,
 
 ## “We already carry mealworms.”
 
-That validates consumer demand for whole-insect poultry treats. White Eagle Nutrition can complement the category with a different insect and a value-size ladder designed for regular users. The key question is whether your customers have an unmet need for larger sizes, improved cost per pound, or broader assortment choice.
+That validates consumer demand for whole-insect poultry treats. White Eagle Nutrition can complement the category with a different insect and a value-size ladder designed for regular users. The key question is whether your customers have an unmet need for larger sizes, improved cost per pound, or broader assortment choice. Use the full compare-and-contrast case in **Section 22: BSFL vs Mealworms**.
 
 ## “The packages are too large.”
 
@@ -823,4 +823,86 @@ Team — I have prepared the working retail-sales source of truth for White Eagl
 4. What is stalled, who owns recovery, and what happens next?
 5. What decision is needed from White Eagle, by when, and what is the financial impact?
 6. What did the team learn that should change our product, pricing, packaging, or sales material?
+
+---
+
+# 22. BSFL VS MEALWORMS — RETAILER SWITCH CASE
+
+## One-Line Retail Case
+
+Mealworms proved the category. Whole dried BSFL in 5 lb / 10 lb / 20 lb sizes is how retailers upgrade the assortment, grow basket size, and serve the frequent treat buyer who has outgrown small bags.
+
+## Core Framing
+
+- Mealworm sales validate demand for dried insect poultry treats.
+- White Eagle is the trade-up: enrichment + nutrition story + value-size ladder.
+- Lead with “add and trade up,” not “delete mealworms tomorrow.”
+- Recommended open: White Eagle 5 lb + 20 lb beside existing insect treats, then expand on sell-through.
+
+## Side-by-Side Comparison (Directional)
+
+Use as sales conversation guidance. Exact White Eagle nutrient values must come from the final guaranteed analysis and approved label. Do not present competitor-style multipliers or performance claims as White Eagle facts until approved.
+
+| Dimension | Dried mealworms (typical category) | Whole dried BSFL (White Eagle positioning) | Retail takeaway |
+|---|---|---|---|
+| Shopper familiarity | High — often the default insect treat | Growing fast; easy to explain once sampled or shelf-educated | Mealworms open the door; BSFL captures the upgrade |
+| Palatability / enrichment | Strong foraging response | Strong foraging response with whole larvae | Parity on fun; win on assortment and nutrition story |
+| Protein & energy | High protein; often slightly higher crude protein % | Naturally rich in protein and fat | Both are protein treats — do not overclaim “more protein” |
+| Calcium & mineral balance | Typically very low calcium; Ca:P often unfavorable without fortification | Naturally contains calcium; widely positioned as the mineral-forward insect treat (**TO CONFIRM** exact GA) | Primary nutritional contrast buyers expect — stay label-true |
+| Chitin / fiber story | Present in exoskeleton | Naturally occurring chitin in whole-insect format | Supports whole-insect merchandising |
+| Package architecture | Often stuck in small, expensive bags | 5 / 10 / 20 lb value ladder | White Eagle’s sharpest shelf advantage |
+| Basket & ring | Frequent small-bag rebuys | Larger formats increase dollars per trip | Trade-up grows margin dollars |
+| Merchandising clarity | Limited step-up path | Good-better-best assortment | Easy planogram and e-comm story |
+| Sustainability narrative | Varies by brand | Approved circular-agriculture framing | Differentiates beyond “another bug bag” |
+| Operational fit | Shelf-stable dried insect | Shelf-stable dried insect; adjacent placement | Low friction to trial |
+
+## Where Mealworms Still Make Sense
+
+- Impulse / novelty small bags for first-time treat buyers
+- Customers who specifically ask for mealworms by name
+- Accounts that need a low-entry price point on shelf
+- Variety sets where multiple insect types drive discovery
+
+## Where BSFL Wins the Switch
+
+- Regular treat users tired of rebuying tiny bags
+- Medium-to-large flocks, homesteaders, and breeders
+- Shoppers seeking a more complete mineral story in an insect treat
+- Buyers who want higher ring and clearer trade-up
+- Retailers ready to modernize the poultry-treat set
+
+## Five Reasons the Retailer Should Switch (or Lead with BSFL)
+
+1. **Protect and grow the insect-treat dollar** — staying mealworm-only leaves the trade-up to other channels or competitors.
+2. **Fill the value-size gap** — frequent users are underserved by small bags.
+3. **Increase basket size** — 10 lb / 20 lb can replace multiple small-bag rings.
+4. **Give associates an easy story** — foraging enrichment in sizes that match real use.
+5. **Create a testable upgrade path** — keep mealworms if needed; add White Eagle; measure results.
+
+## Recommended Assortment Moves
+
+- **Conservative:** Keep best-selling small mealworm SKU + add White Eagle 5 lb and 20 lb.
+- **Poultry-forward reset:** Full 5 / 10 / 20 lb ladder adjacent to feed and flock treats.
+- **E-commerce first:** List all three BSFL sizes online; keep mealworms in-store for impulse if shelf is tight.
+- **Category leadership:** Position BSFL as the primary value insect treat; narrow mealworms to one entry SKU.
+
+## Approved Talk Track — “We already carry mealworms”
+
+“That’s great — it means your customers already buy dried insects. White Eagle isn’t asking you to abandon mealworms overnight. We’re offering the trade-up: whole dried BSFL in 5 lb, 10 lb, and 20 lb value sizes for the frequent treat buyer who’s tired of small bags. Mealworms proved the demand. Our line lets you capture more basket, serve larger flocks, and give shoppers a clear good-better-best step-up. Would you review samples for a two-SKU open — 5 lb and 20 lb — next to your current insect treats?”
+
+## Guardrailed Nutritional Contrast Talk Track
+
+“Both mealworms and BSFL are highly palatable whole-insect treats. Where BSFL typically differentiates in the category is calcium and overall mineral story, while mealworms are often chosen for familiarity and a slightly higher crude protein percentage. We’ll share White Eagle’s final guaranteed analysis for exact values. On shelf, the simpler story is: natural foraging enrichment, useful nutrition, shelf-stable convenience, and value sizes that match how regular customers actually buy.”
+
+## Close
+
+“Mealworms got your customers into the set. White Eagle’s BSFL value sizes are how you keep their next purchase — and a bigger one. May we set up samples and a short test plan for 5 lb and 20 lb?”
+
+## Claim Guardrails for This Section
+
+- Do not quote “85× more calcium,” egg-shell strength, molt recovery, immunity, antimicrobial, or production claims as White Eagle product claims unless Dawn approves substantiation and label language.
+- Do not say BSFL replaces complete feed, oyster shell, or a balanced ration.
+- Do not attack the retailer’s current mealworm vendor — contrast the assortment opportunity.
+- When sharing numbers, use White Eagle’s approved guaranteed analysis only.
+- Preferred verbs: supports, provides, encourages, naturally contains, trade-up, value sizes.
 
